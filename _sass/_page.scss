@@ -5,8 +5,8 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
+  margin-top: -.8em;
+  padding-left: 2em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -35,7 +35,7 @@
 }
 
 .page__title {
-  margin-top: 0;
+  margin-top: 0em;
   line-height: 1;
 
   & + .page__meta {
@@ -162,7 +162,7 @@
 
 .page__hero-image {
   width: 100%;
-  height: auto;
+  height: 0em;
   -ms-interpolation-mode: bicubic;
 }
 
