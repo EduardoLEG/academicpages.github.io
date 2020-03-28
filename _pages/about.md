@@ -37,8 +37,8 @@ redirect_from:
 <body>
 	
 
-  <div class="column">
-    <img class="img-circle" src="{{ site.baseurl }}images/ufpr1.png" alt="Responsive image" width="650">
+  <div>
+    <img class="img-circle" src="{{ site.baseurl }}images/ufpr1.png" alt="Responsive image" width="900">
   </div>
 
 
