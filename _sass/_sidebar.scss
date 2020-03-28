@@ -114,11 +114,9 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: -2;
 
-   span.nobreak {
-  white-space: nowrap;
-}
+   
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
