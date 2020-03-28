@@ -1,14 +1,18 @@
 ---
-title: "Inferência Estatística"
+title: "Inferência Estatística 2"
 layout: layout3
-date: 2020-01-13
+date: 2020-01-14
 
 ---
 
-
 <p style="margin-bottom:2cm;"></p> 
-<h2>Inferência Estatística</h2>
- <p style="margin-bottom:2cm;"></p>
+
+<h2>
+
+<font color="#2980b9">Inferência Estatística</font>
+
+</h2>
+
  
 * **Professor:** Filipe Vargas Ferreira
   * **Curso:** Estatística.
@@ -19,11 +23,24 @@ date: 2020-01-13
      * Sexta-feira 20:40 - 22:00, PA-01.
   * **Atendimento:** Sexta, 17h30-18h30.
 
+<p style="margin-bottom:1cm;"></p>
+
+<h2>
+
+<font color="#2980b9">Listas</font>
+
+</h2>
+
+* <a href="https://estatup.github.io/files/paper1.pdf" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Lista 1</a>
+
+* [Lista 1](https://estatup.github.io/files/paper1.pdf)
+
+* Lista 1 ([link](https://estatup.github.io/files/paper1.pdf))
 
 <p style="margin-bottom:.7cm;"></p> 
-<h3>
+<h2>
    <font color="#2980b9">Programa da disciplina</font> 
-</h3>
+</h2>
 <p style="margin-bottom:.3cm;"></p>
 
    - Modelos Estatísticos:
@@ -46,9 +63,9 @@ date: 2020-01-13
 
 
 <p style="margin-bottom:.7cm;"></p> 
-<h4>
+<h2>
    <font color="#2980b9">Referências Bibliográficas</font> 
-</h4>
+</h2>
 <p style="margin-bottom:.3cm;"></p>
 
 * Casella, G. and Berger, R. L. (2001). **Statistical Inference**. 2th Edition. Duxbury Press;
