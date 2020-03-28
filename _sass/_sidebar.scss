@@ -6,12 +6,15 @@
    Default
    ========================================================================== */
 
+
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   background: $background-color;
+   padding-right: 2em;
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -50,7 +53,8 @@
 }
 
 .sidebar__right {
-  margin-bottom: 1em;
+  padding-right: 1em; 
+  margin-bottom: 0em;
 
   @include breakpoint($large) {
     position: relative;
@@ -70,6 +74,7 @@
    ========================================================================== */
 
 .author__avatar {
+   margin-top: 1.8em;
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -167,7 +172,7 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: #fff;
+  background: #2980b9;
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
@@ -208,7 +213,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: #2980b9;
     z-index: 1;
 
     @include breakpoint($large) {
