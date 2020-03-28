@@ -1,3 +1,38 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@EduardoLEG
+estatup /
+filipe
+Template
+forked from academicpages/academicpages.github.io
+
+0
+0
+
+    7.8k
+
+Code
+Pull requests 0
+Actions
+Projects 0
+Wiki
+Security
+Insights
+filipe/_config.yml
+@estatup estatup Update _config.yml c08d66c on 17 Dec 2019
+@estatup
+@staeiou
+@tlcaputi
+@a-paxton
+@ning-y
+@luismmontilla
+@jacobtfisher
+@aki-nishimura
+302 lines (275 sloc) 7.71 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -7,13 +42,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : Eduardo Vargas Ferreira
+title_separator          : #"-"
+name                     : &name "Eduardo Vargas Ferreira"
+description              : &description "Professor @ UFPR"
+url                      : https://eduardoleg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.gitub.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,16 +90,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -80,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Eduardo Vargas Ferreira"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Professor @ UFPR"
+  location         : #"Campinas, SP - Brazil" # arrumar a localização no include/autor-profile
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"https://scholar.google.com.br/citations?user=6Txu3hwAAAAJ&hl=en"
+  email            :  e.ferreira@ufpr.br
+  researchgate     :  http://lattes.cnpq.br/6295059687055801
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +122,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0001-8494-1868"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"https://publons.com/researcher/A-6434-2018/"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +335,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
