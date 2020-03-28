@@ -107,7 +107,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     padding-left: 0;
     padding-right: 0;
   }
@@ -116,6 +116,9 @@
 .author__name {
   margin: 0;
 
+   span.nobreak {
+  white-space: nowrap;
+}
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
