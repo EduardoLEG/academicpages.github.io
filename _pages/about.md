@@ -15,7 +15,7 @@ redirect_from:
 	
 
   <div>
-    <img class="img-circle" src="{{ site.baseurl }}images/ufpr1.png" alt="Responsive image" width="750">
+    <img class="img-circle" src="{{ site.baseurl }}images/ufpr1.png" alt="Responsive image" width="600">
   </div>
 
 
