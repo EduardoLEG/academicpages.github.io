@@ -33,7 +33,7 @@ redirect_from:
 
 <p style="margin-bottom:1cm;"></p>
 <h2>
-<font color="#2980b9">Education</font>
+<font color="#2980b9">Formação</font>
 </h2>
 
 * __Ph.D.__ em Machine Learning, Technische Universität Berlin (em andamento)
@@ -41,7 +41,7 @@ redirect_from:
 * __B.SC.__ em Estatística, UNICAMP (2010 - 2011)
 
 <h2>
-<font color="#2980b9">Honors and Awards</font>
+<font color="#2980b9">Prêmios e títulos</font>
 </h2>
 
 * __2014:__ Prêmio de 1º lugar no concurso de "Melhor dissertação de Mestrado", Associação Brasileira de Estatística;
