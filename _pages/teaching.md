@@ -12,9 +12,11 @@ author_profile: true
 
 </h2>
 
-* [Machine Learning](https://eduardoleg.github.io/teaching/2020-spring-teaching-2/)
+* [Machine Learning 1](https://eduardoleg.github.io/teaching/2020-01-01-machine/)
 
 * [Inferência Estatística](https://eduardoleg.github.io/teaching/2020-spring-teaching-1/)
+
+* [Lean Six Sigma](https://eduardoleg.github.io/teaching/2020-spring-teaching-2/)
 
 * [Probabilidade A](https://eduardoleg.github.io/teaching/2020-spring-teaching-1/)
 
