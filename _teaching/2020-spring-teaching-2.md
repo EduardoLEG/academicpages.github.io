@@ -14,7 +14,7 @@ date: 2020-01-14
 </h2>
 
  
-* **Professor:** Filipe Vargas Ferreira
+* **Professor:** Eduardo Vargas Ferreira
   * **Curso:** Estatística.
   * **Período:** 2020/2.
   * **Horários e Locais:**
